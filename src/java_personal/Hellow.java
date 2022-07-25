@@ -1,4 +1,4 @@
-package java_personal.tt;
+package java_personal;
 
 public class Hellow {
 
